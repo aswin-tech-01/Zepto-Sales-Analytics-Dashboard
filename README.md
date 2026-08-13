@@ -174,7 +174,8 @@ Zepto-Sales-Analysis/
 Add the dashboard screenshot below:
 
 ```markdown
-![Zepto Sales Dashboard](screenshots/zepto_sales_dashboard.png)
+<img width="1229" height="617" alt="image" src="https://github.com/user-attachments/assets/ce6d8f97-21cc-4448-bfef-367e2c401fbd" />
+
 ```
 
 ---
