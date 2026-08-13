@@ -1,7 +1,3 @@
-Absolutely. For a **job-portfolio GitHub project**, the README should look less like a college assignment and more like a professional **data analytics case study**.
-
-Use this version:
-
 # Zepto Sales Analytics Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
@@ -171,11 +167,11 @@ Zepto-Sales-Analysis/
 
 ## 🖼️ Dashboard Preview
 
-Add the dashboard screenshot below:
+
 ![Zepto Sales Dashboard](https://github.com/user-attachments/assets/02c73ef8-2476-4c3d-934b-1cfe8fd57dbb)
 
 
----
+
 
 ## 💼 Business Value
 
