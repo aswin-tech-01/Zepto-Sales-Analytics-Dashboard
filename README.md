@@ -172,11 +172,8 @@ Zepto-Sales-Analysis/
 ## 🖼️ Dashboard Preview
 
 Add the dashboard screenshot below:
+![Zepto Sales Dashboard](https://github.com/user-attachments/assets/02c73ef8-2476-4c3d-934b-1cfe8fd57dbb)
 
-```markdown
-<img width="1229" height="617" alt="image" src="https://github.com/user-attachments/assets/ce6d8f97-21cc-4448-bfef-367e2c401fbd" />
-
-```
 
 ---
 
